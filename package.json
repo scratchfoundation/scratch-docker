@@ -9,6 +9,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "bin": {
+    "docker_config.sh": "./bin/docker_config.sh"
+  },
   "author": "Massachusetts Institute of Technology",
   "license": "BSD-3-Clause",
   "keywords": [
