@@ -1,6 +1,6 @@
 {
   "name": "scratch-docker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Settings and setup utilities for Scratch infrastructure related development and repositories",
   "repository": {
     "type": "git",
