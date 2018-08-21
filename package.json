@@ -1,0 +1,17 @@
+{
+  "name": "scratch-docker",
+  "version": "1.0.0",
+  "description": "Settings and setup utilities for Scratch infrastructure related development and repositories",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LLK/scratch-docker.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Massachusetts Institute of Technology",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "scratch"
+  ]
+}
